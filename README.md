@@ -1,2 +1,2 @@
-# IOSPdb.github.io
+# IOSPdb
 Internet Open Source Project Database
